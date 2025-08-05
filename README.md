@@ -18,7 +18,7 @@ This Sales Dashboard provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](<img width="928" height="573" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/938f449e-9b18-40ff-b964-227b91afa4d1" />)
+<img width="928" height="573" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/b0994cf2-4fe7-4a9c-88d6-a1b9c7c9ba5f" />
 
 ---
 
